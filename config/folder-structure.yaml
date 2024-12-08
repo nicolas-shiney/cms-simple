@@ -1,0 +1,20 @@
+folders:
+- name: app
+  children:
+  - name: controllers
+  - name: models
+  - name: views
+    children:
+    - name: templates
+    - name: cache
+  - name: services
+- name: config
+- name: public
+  children:
+  - name: assets
+    children:
+    - name: css
+    - name: js
+    - name: images
+- name: storage
+  writable: true

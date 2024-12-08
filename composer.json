@@ -1,0 +1,9 @@
+{
+    "name": "simple/cms-name",
+    "description": "simple cms description",
+    "type": "project",
+    "require": {
+        "symfony/yaml": "^6.4",
+        "league/climate": "^3.10"
+    }
+}

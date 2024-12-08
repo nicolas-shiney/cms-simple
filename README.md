@@ -6,7 +6,7 @@ To quickly set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nicolas-shiney/cms.git .
+   git clone https://github.com/nicolas-shiney/cms-simple.git .
    ```
 
 2. Run the project initialization script:

@@ -9,6 +9,7 @@ folders:
     - name: cache
   - name: services
 - name: config
+- name: db
 - name: public
   children:
   - name: assets
